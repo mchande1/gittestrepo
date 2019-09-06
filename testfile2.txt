@@ -1,1 +1,2 @@
-this is testfile2 new lines added
+this is testfile2 new lines added.
+Added lines as 2nd user
