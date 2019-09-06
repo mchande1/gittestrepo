@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 i made changes as 1st user. This will be there in the repository
+=======
+this is a test file. Made changes as 2nd user
+>>>>>>> 5e7f2258fbfe20506950f51c8684773592f7db1e
